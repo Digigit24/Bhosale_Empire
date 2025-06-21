@@ -23195,7 +23195,8 @@ Location:
   margin-top: 16px;
 }
 
-.property-inner-section-find .contact-boxarea .bg-area .input-area input {
+.property-inner-section-find .contact-boxarea .bg-area .input-area input,
+.property-inner-section-find .contact-boxarea .bg-area .input-area select {
   width: 100%;
   color: var(--ztc-text-text-2);
   font-family: var(--ztc-family-font1);
